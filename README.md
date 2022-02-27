@@ -1,7 +1,7 @@
 - 👋 Hi, I’m FangshengXu/Jason
 - 👀 I’m interested in Web Dev and Cloud
 - 🌱 I’m currently learning Software Architecture and API design
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on every cool projects
 - 📫 How to reach me 
 - xufangsheng@seattleu.edu
 <!---
