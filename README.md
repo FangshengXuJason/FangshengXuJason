@@ -1,4 +1,4 @@
-- 👋 Hi, I’m FangshengXu/Jason, Master of CS at Seattle University
+- 👋 Hi, I’m FangshengXu/Jason, a CS grad student at Seattle University 
 - 👀 I’m interested in Web Dev, Cloud and Game Dev
 - 🌱 I’m currently learning Software Architecture and API design
 - 💞️ I’m looking to collaborate on every cool projects
