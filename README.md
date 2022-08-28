@@ -1,7 +1,7 @@
-- 👋 Hi, I’m FangshengXu/Jason, a CS grad student at Seattle University 
-- 👀 I’m interested in Web Dev and Cloud
-- 🌱 I’m currently learning Software Architecture and API design
-- 💞️ I’m looking to collaborate on every cool projects
+- 👋 I’m a CS grad studnet at Seattle University 
+- 💞️ I’m interested in Web Dev, Mobile Dev and Distributed System 
+- 🌱 I’m currently learning Firebase and React Native
+- 👀 I’m looking full-time software engineering positions
 - 📫 Reach me at: xufangsheng@seattleu.edu
 - My Portfoio: https://fangsheng-xu.com/
 <!---
