@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Firebase and React Native
 - 👀 I’m looking full-time software engineering positions
 - 📫 Reach me at: xufangsheng@seattleu.edu
+                 or xfs672378308@gmail.com
 - My Portfoio: https://fangsheng-xu.com/
 <!---
 FangshengXuJason/FangshengXuJason is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
