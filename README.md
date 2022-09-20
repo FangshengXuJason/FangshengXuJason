@@ -1,4 +1,4 @@
-- 👋 I’m a CS grad studnet at Seattle University 
+- 👋 I’m a CS grad student at Seattle University 
 - 💞️ I’m interested in Web Dev, Mobile Dev and Distributed System 
 - 🌱 I’m currently learning Firebase and React Native
 - 👀 I’m looking full-time software engineering positions
