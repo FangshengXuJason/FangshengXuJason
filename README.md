@@ -1,7 +1,5 @@
-- 👋 I’m a CS grad student at Seattle University 
-- 💞️ I’m interested in Web Dev, Mobile Dev and Distributed System 
-- 🌱 I’m currently learning Firebase and React Native
-- 👀 I’m looking full-time software engineering positions
+- Full-stack Software Engineer with experience in web and mobile development experience, specializing in React, React Native, NodeJS, and PostgreSQL. 
+- oepn to software engineering positions
 - 📫 Reach me at: xufangsheng@seattleu.edu
                  or xfs672378308@gmail.com
 - My Portfoio: https://fangsheng-xu.vercel.app/
